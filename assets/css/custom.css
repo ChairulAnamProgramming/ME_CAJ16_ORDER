@@ -18,6 +18,10 @@ body {
     color: #5CB85C;
 }
 
+.text-orange {
+    color: #dab515;
+}
+
 .bg-gray {
     background-color: rgb(217, 226, 233);
 }
