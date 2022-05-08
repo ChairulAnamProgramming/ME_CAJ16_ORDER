@@ -44,18 +44,34 @@ body {
 }
 
 #Home .wrap-desc h4 {
-    font-size: 32px;
+    font-size: 18px;
 }
 
 #Home .wrap-desc h1 {
-    font-size: 48px;
+    font-size: 28px;
 }
 
 /* END HOME */
 
 /* SERVICE */
 #Service {
-    margin-top: -6%;
+    margin-top: -20%;
 }
 
 /* END SERVICE */
+
+
+/* DEKSTOP */
+@media (min-width: 992px) {
+    #Home .wrap-desc h4 {
+        font-size: 32px;
+    }
+
+    #Home .wrap-desc h1 {
+        font-size: 48px;
+    }
+
+    #Service {
+        margin-top: -6%;
+    }
+}
