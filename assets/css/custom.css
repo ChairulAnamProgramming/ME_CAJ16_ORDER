@@ -1,0 +1,61 @@
+body {
+    background-color: aliceblue;
+}
+
+/* BUTTON */
+.btn-green {
+    background-color: #5CB85C;
+    color: white;
+}
+
+/* END BUTTON */
+
+/* UTIL */
+.text-green {
+    color: #5CB85C;
+}
+
+.bg-gray {
+    background-color: rgb(217, 226, 233);
+}
+
+/* END UTIL */
+
+/* BACKGROUND */
+
+/* END BACKGROUND */
+
+
+/* HOME */
+#Home {
+    position: relative;
+    height: 30rem;
+}
+
+#Home img {
+    height: 100%;
+}
+
+#Home .wrap-desc {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    right: 10%;
+}
+
+#Home .wrap-desc h4 {
+    font-size: 32px;
+}
+
+#Home .wrap-desc h1 {
+    font-size: 48px;
+}
+
+/* END HOME */
+
+/* SERVICE */
+#Service {
+    margin-top: -6%;
+}
+
+/* END SERVICE */
