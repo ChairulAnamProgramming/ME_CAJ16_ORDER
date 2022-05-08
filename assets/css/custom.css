@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;500;600;800;900&display=swap');
+
 body {
     background-color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* BUTTON */
